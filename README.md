@@ -19,7 +19,7 @@ A professional and responsive currency converter web application that allows use
 
 
 
-👉 **Live Demo:** [Click Here](https://codewithaliyan.github.io/GlobeX-Converter/)
+👉 **Live Demo:** [CLICK-ME](https://codewithaliyan.github.io/GlobeX-Converter/)
 
 ---
 
@@ -32,19 +32,6 @@ A professional and responsive currency converter web application that allows use
 
 ---
 
-## 📂 Folder Structure
-
-
-GlobeX-Converter/
-│
-├── docs/
-│ ├── index.html
-│
-├── image/
-│ ├── bg.jpg
-│ ├── logo.png
-│
-└── README.md
 
 
 
