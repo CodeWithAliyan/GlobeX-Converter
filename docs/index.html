@@ -160,13 +160,10 @@
             width: 100%;
         }
 
-        /* ----------------------- BANNER ----------------------- */
+        /* ----------------------- BANNER (UPDATED) ----------------------- */
         .banner {
-            /* PATH: ../image/bg.jpg */
-            background: url('../image/bg.jpg') center/cover no-repeat;
-
-            /* Ensures dark background and no overlay/shadow for a clean look */
-            background-color: #333;
+            /* Removed background image and set solid color */
+            background-color: var(--accent-blue); /* Using the existing accent blue color */
             padding: 80px 5%;
             text-align: center;
             color: var(--text-light);
@@ -175,8 +172,7 @@
 
         .banner .container {
             padding: 0;
-            /* Text shadow for better readability over busy image */
-            text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+            /* Removed text-shadow for better visibility over a solid color */
         }
 
         .banner h1 {
