@@ -17,7 +17,7 @@ A professional and responsive currency converter web application that allows use
 
 ## 🖼️ Preview
 
-![Banner](image/bg.jpg)
+
 
 👉 **Live Demo:** [Click Here](https://codewithaliyan.github.io/GlobeX-Converter/)
 
